@@ -1,9 +1,8 @@
 ---
 date: '2025-10-08T16:55:22-04:00'
 draft: false
+title: Barakah Tech Journey
 ---
-
-# Barakah Tech Journey
 
 ### Building a Meaningful Career in Tech with Purpose, Values, and Excellence
 
