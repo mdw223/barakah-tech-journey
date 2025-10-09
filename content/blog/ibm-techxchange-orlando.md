@@ -205,6 +205,10 @@ Apply these learnings to real-world projects. Start simple and iterate.
 
 ## Page 2: Code Implementation - Building AI Agents with LangGraph
 
+[GitHub Repo to learn more on building ai agents](https://github.com/nicknochnack)
+
+[Repo for building an AI agent using IBM orchestrate](https://github.com/andretost/techxchange-3394)
+
 ### Overview of Code Files
 The provided codebase demonstrates building AI agents using multiple approaches:
 1. **LangGraph** (Python framework) - `agent.py`
