@@ -1,6 +1,6 @@
 ---
 date: '2025-10-08T16:55:22-04:00'
-draft: true
+draft: false
 ---
 
 # Barakah Tech Journey

@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barakah Tech Journey – </title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/barakah-tech-journey/</link>
     <description>Recent content on Barakah Tech Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Oct 2025 16:55:22 -0400</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/barakah-tech-journey/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/ibm-techxchange-orlando/</link>
+      <link>http://localhost:1313/barakah-tech-journey/blog/ibm-techxchange-orlando/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/ibm-techxchange-orlando/</guid>
+      <guid>http://localhost:1313/barakah-tech-journey/blog/ibm-techxchange-orlando/</guid>
       <description>
         
         
