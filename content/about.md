@@ -55,10 +55,3 @@ I won't pretend to have all the answers. I'm still early in my journey, still le
 If you're also trying to find barakah in your work—whether in tech or any other field—I hope these reflections resonate with you. Let's build careers that don't just advance our own interests, but elevate our communities and honor our values.
 
 May our work be filled with barakah, and may we find success in both this life and the next.
-
----
-
-*Malik Wensman*  
-Computer Science @ NC State University  
-Full-Stack Engineer @ Axiom Software  
-[LinkedIn](https://linkedin.com/in/malik-wensman/) | [GitHub](https://github.com/mdw223)

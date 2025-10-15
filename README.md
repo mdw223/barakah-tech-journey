@@ -290,7 +290,3 @@ Content is © Malik Wensman. Code (Hugo configuration and templates) is open sou
 ---
 
 *May our work be filled with barakah, and may we find success in both this life and the next.*
-
-**Malik Wensman**  
-Computer Science @ NC State University  
-Full-Stack Engineer @ Axiom Software
