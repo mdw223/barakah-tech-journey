@@ -83,6 +83,15 @@ The site will be available at `http://localhost:1313/`
 
 Hugo will automatically rebuild when you make changes to content or configuration.
 
+#### Troubleshooting
+
+Remove the old build, rebuild, then view in local development
+```bash
+rm -rf public/
+hugo
+hugo server --buildDrafts
+```
+
 ## Project Structure
 
 ```

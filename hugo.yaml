@@ -41,17 +41,14 @@ menu:
 
 
 params:
+  favicon: assets/barakah-logo-white.svg
   navbar:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
-      light: images/logo-light.svg
+      path: assets/barakah-logo.svg
+      dark: assets/barakah-logo-white.svg
+      light: assets/barakah-logo.svg
       link: /barakah-tech-journey/
       width: 40
       height: 20
-  banner:
-    key: 'announcement-xxx'
-    message: |
-      🎉 Welcome to my blog!
